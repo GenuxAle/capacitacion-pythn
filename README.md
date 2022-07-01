@@ -1,1 +1,1 @@
-# capacitacion-pythn
+# capacitacion-python
